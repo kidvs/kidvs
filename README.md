@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=22&pause=1000&color=C41E3A&center=true&vCenter=true&width=600&lines=A+Song+of+Code+and+Fire;The+Night+is+Dark+and+Full+of+Bugs;Valar+Morghulis+to+Merge+Conflicts;Dracarys+to+Legacy+Code;The+Realm+Runs+on+Semicolons)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=C41E3A&style=for-the-badge&label=RAVENS+RECEIVED)
+![Profile Views](https://komarev.com/ghpvc/?username=kidvs&color=C41E3A&style=for-the-badge&label=RAVENS+RECEIVED)
 
 </div>
 
@@ -41,10 +41,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&title_color=C41E3A&text_color=E5E5E5&icon_color=D4AF37&bg_color=0D1117&border_color=D4AF37" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&title_color=C41E3A&text_color=E5E5E5&bg_color=0D1117&border_color=D4AF37" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kidvs&show_icons=true&title_color=C41E3A&text_color=E5E5E5&icon_color=D4AF37&bg_color=0D1117&border_color=D4AF37" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidvs&layout=compact&title_color=C41E3A&text_color=E5E5E5&bg_color=0D1117&border_color=D4AF37" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&background=0D1117&border=D4AF37&ring=C41E3A&fire=C41E3A&currStreakLabel=D4AF37" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kidvs&background=0D1117&border=D4AF37&ring=C41E3A&fire=C41E3A&currStreakLabel=D4AF37" />
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=kidvs&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
