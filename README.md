@@ -37,19 +37,6 @@
 
 ---
 
-## The Small Council — GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kidvs&show_icons=true&title_color=C41E3A&text_color=E5E5E5&icon_color=D4AF37&bg_color=0D1117&border_color=D4AF37" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidvs&layout=compact&title_color=C41E3A&text_color=E5E5E5&bg_color=0D1117&border_color=D4AF37" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kidvs&background=0D1117&border=D4AF37&ring=C41E3A&fire=C41E3A&currStreakLabel=D4AF37" />
-
-</div>
-
----
-
 ## Ravens — Connect With Me
 
 <div align="center">
