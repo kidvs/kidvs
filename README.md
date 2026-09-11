@@ -4,7 +4,7 @@
 
 *"Fire and Blood. Also, occasionally, Bugs and Builds."*
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=22&pause=1000&color=C41E3A&center=true&vCenter=true&width=600&lines=A+Song+of+Code+and+Fire;The+Night+is+Dark+and+Full+of+Bugs;Valar+Morghulis+to+Merge+Conflicts;Dracarys+to+Legacy+Code;The+Realm+Runs+on+Semicolons)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=22&pause=1000&color=C41E3A&center=true&vCenter=true&width=600&lines=A+Song+of+Code+and+Fire;The+Night+is+Dark+and+Full+of+Bugs;Valar+Morghulis+to+Merge+Conflicts;Dracarys+to+Antigravity+IDE;The+Realm+Runs+on+Semicolons)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kidvs&color=C41E3A&style=for-the-badge&label=RAVENS+RECEIVED)
 
