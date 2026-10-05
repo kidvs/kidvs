@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kidus Elias — Blood of Old Valyria, Bones of Old Code
+# Kidus Elias — Blood of Old Valyria
 
 *"Fire and Blood. Also, occasionally, Bugs and Builds."*
 
